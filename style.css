@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+    color: hsl(180, 100%, 0%);
+    background-color: hsl(180, 100%, 50%);
+    
+    
+}
+.col-sm { 
+    background-color: hsl(118, 100%, 50%);
+    color: white;
+}
+
+.nav-link{
+    color: black;
+}
+
