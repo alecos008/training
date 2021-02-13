@@ -1,4 +1,4 @@
-// Setup
+// added Setup 
 var collection = {
   2548: {
     albumTitle: 'Slippery When Wet',
